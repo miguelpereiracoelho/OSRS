@@ -1,2 +1,2 @@
 [build]
-start = "bash start.sh"
+start = "python TempleOSRS.py"
